@@ -1,6 +1,6 @@
 import { solution, solution2 } from './solution';
 
-describe('solution', () => {
+describe('roman-numerals-encoder solution', () => {
   it('basic', () => {
     expect(solution(5000)).toEqual('MMMMM');
     expect(solution(1000)).toEqual('M');
@@ -18,7 +18,7 @@ describe('solution', () => {
   });
 });
 
-describe('solution2', () => {
+describe('roman-numerals-encoder solution2', () => {
   it('basic', () => {
     expect(solution2(5000)).toEqual('MMMMM');
     expect(solution2(1000)).toEqual('M');
