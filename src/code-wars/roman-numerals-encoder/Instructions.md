@@ -26,3 +26,7 @@ M          1,000
 Remember that there can't be more than 3 identical symbols in a row.
 
 More about roman numerals - [http://en.wikipedia.org/wiki/Roman_numerals](http://en.wikipedia.org/wiki/Roman_numerals)
+
+## Challenge Link
+
+[Codewars - Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/typescript)
