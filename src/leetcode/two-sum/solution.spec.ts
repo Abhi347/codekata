@@ -8,6 +8,6 @@ describe('two sum solution', () => {
   it('custom', () => {
     expect(twoSum([2, 7, 7, 11, 15], 9)).toEqual([0, 1]);
     expect(twoSum([2, 7, 7, 11, 15], 14)).toEqual([1, 2]);
-    expect(twoSum([2, 7, 7, 11, 15], 59)).toEqual([-1, -1]);
+    expect(()=>twoSum([2, 7, 7, 11, 15], 59)).toThrowError();
   });
 });
