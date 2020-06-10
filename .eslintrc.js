@@ -24,6 +24,12 @@ module.exports = {
     },
   },
   rules: {
+    'no-restricted-syntax': [
+      'error',
+      'FunctionExpression',
+      'WithStatement',
+      "BinaryExpression[operator='in']",
+    ],
     'import/no-extraneous-dependencies': [
       'error',
       { devDependencies: ['**/*.spec.ts'] },
