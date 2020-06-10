@@ -4,4 +4,4 @@ Complete the function which converts hex number (given as a string) to a decimal
 
 ## Challenge Link
 
-[Codewars - Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b/train/typescript)
+[Codewars - Hex to Decimal](https://www.codewars.com/kata/57a4d500e298a7952100035d/typescript)
