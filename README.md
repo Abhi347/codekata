@@ -7,3 +7,7 @@
 [![Licence Badge](https://img.shields.io/github/license/Abhi347/codekata)](https://github.com/Abhi347/codekata/blob/master/LICENSE)
 
 Solutions of different codekata
+
+## Flairs
+
+[![Codewars profile](https://www.codewars.com/users/Abhi347/badges/large)](https://www.codewars.com/users/Abhi347)
