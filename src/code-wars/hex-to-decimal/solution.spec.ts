@@ -1,6 +1,6 @@
 import { hexToDec } from './solution';
 
-describe('roman-numerals-encoder solution', () => {
+describe('hex-to-decimal solution', () => {
   it('basic', () => {
     expect(hexToDec('1')).toEqual(1);
     expect(hexToDec('a')).toEqual(10);
